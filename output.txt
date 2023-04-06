@@ -1,4 +1,4 @@
-identifier: while
+keyword: while
 separator: (
 identifier: t
 operator: <
